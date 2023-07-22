@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Visualization
-published: false
+published: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below)![]({{site.baseurl}}/)![hd]({{site.baseurl}}/_posts/DS.png)
